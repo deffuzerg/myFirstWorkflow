@@ -1,1 +1,1 @@
-![Building check] (https://github.com/deffuzerg/myFirstWorkflow/actions/workflows/hello-world.yml/badge.svg)
+![bage](https://github.com/deffuzerg/myFirstWorkflow/actions/workflows/hello-world.yml/badge.svg)
